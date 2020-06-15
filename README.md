@@ -4,9 +4,9 @@
 
 ## Table of contents
 
-* [data_preprocessing](https://github.com/wicky1234444/ML-based-resource-predictor/tree/master/data_preprocessing) 
+* [data_preprocessing](https://github.com/wicky1234444/ML-based-resource-predictor/tree/master/data_preprocessing)
 * [data](https://github.com/wicky1234444/ML-based-resource-predictor/tree/master/data)
-* [Resource_predictors](https://github.com/wicky1234444/ML-based-resource-predictor/tree/master/Resource_predictors)
+* [Resource_predictors](https://github.com/wicky1234444/ML-based-resource-predictor/tree/master/Resource%20predictors)
 * [Graphs](https://github.com/wicky1234444/ML-based-resource-predictor/tree/master/Graphs)
 
 ## data_preprocessing
@@ -33,11 +33,11 @@
 
 > Contains the following code files.
 
-* [MLP resource predictor](<https://github.com/wicky1234444/ML-based-resource-predictor/tree/master/Resource_predictors/MLP resource predictor.ipynb>)
+* [MLP resource predictor](<https://github.com/wicky1234444/ML-based-resource-predictor/blob/master/Resource%20predictors/MLP%20resource%20predictor.ipynb>)
 
     *Contains Multilayer perceptron based resource predictor model and its training code*
 
-* [RNN resource predictor](<https://github.com/wicky1234444/ML-based-resource-predictor/tree/master/Resource_predictors/RNN resource predictor.ipynb>)
+* [RNN resource predictor](<https://github.com/wicky1234444/ML-based-resource-predictor/blob/master/Resource%20predictors/RNN%20resource%20predictor.ipynb>)
 
     *Contains RNN based resource predictor model, its training and request predictions generation code*
 
