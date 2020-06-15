@@ -23,7 +23,7 @@
 
 * [collision rate calculation](<https://github.com/wicky1234444/ML-based-resource-predictor/tree/master/data_preprocessing/collision rate calculation.ipynb>)
 
-    *Contains code for collision rate calculation from the RNN predicitons, RACH predictions and comparing the performance of ML and RNN.*
+    *Contains code for collision rate calculation from the RNN predicitons, RACH predictions and comparing the performance of MLP and RNN.*
 
 ## data
 
